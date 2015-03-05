@@ -1,0 +1,25 @@
+{
+  "name": "slack-slash-urban",
+  "version": "0.0.1",
+  "description": "Slack integration to implement /urban command",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.12.2",
+    "urban": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielgilini/slack-slash-urban.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielgilini/slack-slash-urban/issues"
+  },
+  "homepage": "https://github.com/gabrielgilini/slack-slash-urban"
+}
